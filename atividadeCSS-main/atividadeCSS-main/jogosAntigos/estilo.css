@@ -1,0 +1,42 @@
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color:#B3BFFF;
+    font-size: 30px;
+    text-align: justify;
+    border: 10px solid rgb(126, 7, 7);
+    padding: 15px 10px;
+}
+
+h1{
+    color: #DD7BDF;
+    
+}
+   
+#a{
+    color:#FFBBE1;
+
+}
+
+#space{
+    color:#FFF58A;
+}
+
+#pac{
+    color: #DD7BDF;
+}
+
+#dk{
+    color:#FFBBE1 ;
+}
+
+#mario{
+    color:#FFF58A ;
+}
+
+p{
+    width: 1700px;
+}
+
+a{
+    color:#DD7BDF;
+}
