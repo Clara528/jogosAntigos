@@ -1,0 +1,18 @@
+body{
+    background-color:#FFF6F6;
+    font-size: 30px;
+    text-align: justify;
+    border: 10px solid #8CC7C4;
+    padding: 15px 10px;
+}
+
+.imagem{
+    width: 500px;
+}
+    #titulo{
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color:#2C687B;
+    }
+a{
+    color:#DB1A1A;
+}
